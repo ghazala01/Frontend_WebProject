@@ -8,15 +8,15 @@ It is created using REACT and Tailwind css(CSS Framework).
 
 2.Run the following command in project directory to install required dependencies:
 
-**npm install**
+## npm install
 
 3.Run the following command:
 
-**npm install --save react-router-dom**
+## npm install --save react-router-dom
 
 4.Run the following command to start the application in development mode:
 
-**npm start**
+## npm start
 
 It runs the app in the development mode.
 
