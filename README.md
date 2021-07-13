@@ -1,14 +1,14 @@
-**# Introduction**
+# Introduction
 
 It is created using REACT and Tailwind css(CSS Framework).
 
-#**Setup the environment**
+# Setup the environment
 
 1.Ensure npm is installed on your device.
 
 2.Run the following command in project directory to install required dependencies:
 
-##**npm install**
+**npm install**
 
 3.Run the following command:
 
