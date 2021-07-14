@@ -14,10 +14,10 @@ function App() {
   return (
     <Router>
       <Switch>
+      <Route exact path="/" component={Home}></Route>
         <Route path="/Pricing" component={Pricing}></Route>
         <Route path="/CaseStudies" component={CaseStudies}></Route>
         <Route path="/CaseStudiesInner" component={CaseStudiesInner}></Route>
-        <Route exact path="/" component={Home}></Route>
       </Switch>
     </Router>
   );
